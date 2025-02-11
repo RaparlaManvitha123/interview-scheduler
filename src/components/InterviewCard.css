@@ -1,0 +1,16 @@
+.delete-button {
+  background-color: #dc3545;
+  color: white;
+  padding: 5px 10px; /* Reduce padding */
+  font-size: 0.85em; /* Reduce font size */
+  border-radius: 5px;
+  border: none;
+  font-weight: 500;
+  cursor: pointer;
+  width: auto;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.delete-button:hover {
+  background-color: #c82333;
+}
